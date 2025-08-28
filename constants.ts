@@ -24,7 +24,7 @@ export const PREDEFINED_SKILLS: string[] = [
   'Content Writing',
 ];
 
-export const IPS_ACADEMY_LOGO = 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRig0nWK-77fjaw4cLxww8srg8DoCeWxP0msg&s':
+export const IPS_ACADEMY_LOGO = 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRig0nWK-77fjaw4cLxww8srg8DoCeWxP0msg&s';
 export const PROBLEM_STATEMENTS: ProblemStatement[] = [
   {
     "id": "SIH25001",
